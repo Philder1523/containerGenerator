@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  webapp:
+    container_name: dfs
+    image: nginx:latest
+    ports:
+    - fsdf
+    volumes:
+    - dfdsf
+    environment:
+    - sdfsdf
